@@ -1,0 +1,337 @@
+Go Gator Resort & Spa
+
+*Fictional property for chatbot training purposes. All names, rates, and policies are illustrative
+
+1. Property Overview
+
+Property Name: Go Gator Resort & Spa 
+Location: Northwest Gainesville, 15 minutes from Gainesville International Airport 
+Address: 4200 Ocean Vista Drive, Gainesville, FL 32606
+Total Rooms: 206 (including 24 suites, 6 villas)
+Star Rating: 4.5-star all-inclusive resort
+Check-in: 4:00 PM | Check-out: 11:00 AM
+Front Desk: Available 24/7 — extension 0 from any in-room phone
+Main Line: +1 (555) 200-1234
+Email: guestservices@gogator.example
+Website: www.gogator.example
+
+Property Highlights:
+
+800 ft of private beachfront
+
+3 outdoor pools (1 adults-only, 1 family, 1 lazy river)
+
+5 dining venues + 3 bars
+
+Full-service spa (12 treatment rooms)
+
+18-hole golf course (off-site partner, shuttle provided)
+
+15,000 sq ft conference & event space
+
+Kids Club (ages 4–12) and Teen Lounge (ages 13–17)
+
+2. Room Types & Rates
+
+(per night, double occupancy, subject to seasonal change)
+
+Room Type | Sq Ft | Max Occupancy | Bed Config | Base Rate (Low/High Season)
+Garden View Room | 350 | 2 adults + 1 child | 1 King or 2 Queens | $189 / $259
+Resort View Room | 375 | 2 adults + 2 children | 1 King or 2 Queens | $229 / $299
+Ocean View Room | 400 | 2 adults + 2 children | 1 King or 2 Queens | $289 / $379
+Ocean Front Room | 425 | 2 adults + 2 children | 1 King | $349 / $449
+Junior Suite | 550 | 4 adults | 1 King + Sofa Bed | $429 / $549
+Executive Suite | 750 | 4 adults | 1 King + Living Area | $599 / $749
+Two-Bedroom Villa | 1,400 | 6 adults | 2 King + Kitchenette | $899 / $1,199
+
+High season: August 1st to May 30th
+
+Extra person charge: $45/night (adults), $25/night (children 3–12), children under 3 stay free.
+Resort fee: $35/night (covers Wi-Fi, beach chairs/umbrellas, fitness center, kids club, shuttle to golf course).
+Taxes: 12% combined state/local occupancy tax, applied at checkout.
+
+3. Amenities & Facilities
+
+Pools: Family Pool (7 AM–10 PM), Serenity Adults-Only Pool (8 AM–7 PM, 18+), Lazy River (9 AM–6 PM)
+
+Beach: Complimentary loungers/umbrellas; cabana rental $75/day (reservable via app or concierge)
+
+Fitness Center: 24/7 access with room key; personal training available ($60/hr, book via spa desk)
+
+Wi-Fi: Complimentary standard Wi-Fi resort-wide; Premium high-speed Wi-Fi $12.95/day
+
+Parking: Self-parking $25/day; valet $40/day; EV charging stations available (4 total, first-come)
+
+Business Center: Located off main lobby, 6 AM–11 PM, printing $0.25/page
+
+Laundry: Same-day valet laundry (drop off by 9 AM); self-service laundromat on Level 2
+
+4. Dining Venues
+
+Venue | Type | Hours | Dress Code | Reservations
+Go Gator Buffet | International buffet | 6:30–11 AM, 12–3 PM, 6–10 PM | Smart casual | Not required
+The Waterfront | Seafood, à la carte | 5:30–10 PM | Casual | Recommended
+The Gator Grill | Steakhouse | 5:30–10 PM | Smart casual | Recommended
+Tiki Bar | Asian drinks | 5:30–10 PM | Smart casual | Recommended
+Lagoon Lounge  | Cocktails/light bites | 11 AM–1 AM | Casual | Not required
+Swamp View | Poolside drinks | 10 AM–6 PM | Swimwear OK | Required
+
+All-Inclusive Plan: Go Gator Buffet, The Gator Grill, all bars (house brands), and one specialty dinner reservation per stay per adult. Additional specialty dinners: $45/adult, $20/child.
+
+
+Dietary accommodations: Gluten-free, vegan, kosher-style, and allergy-conscious menus available at all venues with 24-hour advance notice for kosher/halal requests.
+
+5. Spa & Wellness
+
+Hours: 8 AM–8 PM daily
+
+Signature treatments: Ocean Mineral Massage (50 min, $175), Coastal Glow Facial (60 min, $195), Couples Retreat Package (90 min, $420)
+
+Booking: Recommend booking 48+ hours in advance for weekend slots
+
+Cancellation: 24-hour notice required or a 50% charge applies
+
+Access: Thermal suite (sauna, steam, whirlpool) included with any treatment or day pass ($45)
+
+6. Activities, Kids Club & Entertainment
+
+Kids Club (ages 4–12): 9 AM–5 PM daily, $0 for all-inclusive guests, includes lunch and supervised activities. Evening sessions (6–10 PM) $25/child, advance sign-up required.
+
+Teen Lounge (ages 13–17): Game room, movie nights, beach volleyball tournaments — self check-in with wristband
+
+Watersports: Kayaks, paddleboards, snorkel gear complimentary; jet ski rental $90/30min (3rd-party vendor, waiver required)
+
+Evening Entertainment: Live music nightly at Lobby Lounge; theme nights (luau, casino night) rotate weekly — schedule posted at concierge and on in-room TV channel 4
+
+Excursions: Golf shuttle (3x daily), snorkeling boat tours, city day trips — book via concierge or Guest Experience app
+
+7. Transportation
+
+Airport shuttle: Complimentary scheduled shuttle every 2 hours, 6 AM–10 PM; reserve at least 4 hours ahead via front desk
+
+On-demand transfer: Private car $65 one-way, book via concierge
+
+Rental cars: Desk located in lobby, hours 7 AM–7 PM
+
+Golf course shuttle: Included in resort fee, runs hourly 6:30 AM–6 PM\
+
+8. Policies
+
+Check-in / Check-out
+
+Standard check-in 4:00 PM, check-out 11:00 AM
+
+Early check-in / late check-out subject to availability; guaranteed early check-in (10 AM) or late check-out (2 PM) can be booked in advance for $50
+
+Valid photo ID and credit card required at check-in; incidental hold of $150/night authorized
+
+Cancellation
+
+Standard rooms: free cancellation up to 5 days before arrival; inside 5 days, one night's charge
+
+Suites/villas: free cancellation up to 14 days before arrival; inside 14 days, 50% of stay charged
+
+No-shows: full stay charged
+
+Children & Extra Guests
+
+Children under 3: stay and eat free
+
+Rollaway beds: $35/night, subject to fire-code room capacity
+
+Cribs: complimentary, request at booking or via front desk
+
+Pets
+
+Pet-friendly rooms available in Garden View category only (limited inventory)
+
+$75 nonrefundable pet fee per stay, 2 pets max, 50 lb combined weight limit
+
+Service animals exempt from fee and room restrictions
+
+Smoking
+
+100% smoke-free indoors, including balconies; designated outdoor smoking areas near parking structure
+
+Violation cleaning fee: $250
+
+Age Requirements
+
+Primary guest must be 21+; guests 18–20 may book with parent/guardian consent on file
+
+Adults-only pool (Serenity Pool) strictly 18+
+
+Payment
+
+Accepted: Visa, Mastercard, Amex, Discover, debit (with sufficient available credit for holds)
+
+Resort fee and taxes are non-waivable and apply regardless of rate plan
+
+Currency: USD only; on-site currency exchange available at front desk (rates posted daily)
+
+Damage/Lost Items
+
+Lost & Found held 90 days; shipping charged to guest if requested after departure
+
+Damage beyond normal wear charged to card on file within 5 business days of departure, itemized receipt provided
+
+9. Loyalty Program — Gator Rewards
+
+Enrollment: Free, instant sign-up at booking, front desk, or via app/website.
+
+Tier | Qualification (nights/year) | Key Benefits
+Palm | 0–9 nights | Points earning (10 pts/$1), member rates, welcome drink
+Coral | 10–19 nights | Above + room upgrade (subject to availability), late check-out (2 PM), 10% dining discount
+Gators | 20–39 nights | Above + guaranteed upgrade, guaranteed 2 PM late check-out, lounge access, 15% dining discount
+Platinum Gators | 40+ nights | Above + suite upgrade priority, 4 PM guaranteed late check-out, 20% dining discount, dedicated concierge line
+
+Points: 10 points per $1 on room rate + dining/spa spend. 20,000 points = 1 free night (standard room, non-peak dates).
+Points expiration: 24 months of account inactivity.
+Points redemption: Free nights, room upgrades, spa credit, dining credit — redeemable via app or front desk.
+Status match: Guests with elite status at partner brands can request a match by emailing loyalty@gogator.example with proof of status.
+
+10. Room Service & In-Room Requests
+
+Room Service Menu Hours: 6:00 AM – 12:00 AM (limited late-night menu 12–6 AM)
+Delivery time: ~35 minutes standard, ~20 minutes for breakfast during peak hours
+Delivery fee: $6 + 18% service charge (waived for Gators tier and above)
+Ordering channels: In-room tablet, Guest Experience app, or dial extension 55
+
+Common in-room requests:
+
+Request Type | Typical Fulfillment Time | Notes
+Extra towels/pillows | 20–30 min | Routed to Housekeeping
+Housekeeping (mid-day tidy) | 30–45 min | Can be scheduled for specific time
+Maintenance (AC, plumbing, TV) | 15–30 min, urgent issues prioritized | Routed to Engineering
+Crib/rollaway delivery | 30–45 min | Confirm room capacity first
+Late checkout request | Immediate confirmation if available | Check tier — some guaranteed free
+Do Not Disturb / Make Up Room toggle | Immediate | Can also be set via in-room panel
+Wake-up call | Scheduled | Confirm date/time and room number
+
+11. Concierge & Activity Booking
+
+What is commonly booked through the concierge:
+
+Specialty dining reservations 
+
+Spa treatments 
+
+Excursions: snorkeling tours, golf tee times, city day trips, sunset cruises
+
+Watersports equipment/jet ski reservations
+
+Cabana rentals
+
+Private events (weddings, meetings) — routed to Events team for anything over 10 guests
+
+Babysitting service (independent contractor, $25/hr, 2-hour minimum, 24-hr advance notice)
+
+Lead time guidance:
+
+Dining: same-day possible, recommend booking by 4 PM for evening slots
+
+Spa: 48 hours recommended for weekends
+
+Excursions: 24 hours minimum, some (golf) require 48 hours in peak season
+
+Private events: minimum 2 weeks, routed to human Events Coordinator
+
+Booking confirmation: All bookings should generate a confirmation number and be added to the guest's stay itinerary in the app.
+
+12. Booking & Reservation Actions
+
+Common types of reservation actions guests may ask for:
+
+Look up an existing reservation (confirmation number + last name)
+
+Add a night / extend stay
+
+Modify room type
+
+Add extra guests or a crib/rollaway
+
+Apply a promo code or loyalty redemption
+
+Cancel a reservation (per cancellation policy)
+
+Resend confirmation/itinerary email
+
+Reservations within 24 hours of arrival needing changes
+
+Group bookings (10+ rooms)
+
+Rate disputes or requests for rate-match/price adjustment
+
+Split-folio or third-party billing setups
+
+Sample confirmation flow for a modification:
+
+Verify identity (confirmation number + last name, or loyalty number)
+
+State current reservation details and confirm what's changing
+
+Quote any rate difference or fee
+
+Guest confirms
+
+Process change and send updated confirmation email
+
+13. Complaint & Issue Intake
+
+Types of issues guests commonly raise:
+
+Category | Examples
+Minor service miss | Late room service, small housekeeping miss
+Room issue | AC not working, noise complaint, cleanliness
+Billing dispute | Unexpected charge, resort fee question
+Safety/health concern | Injury, foodborne illness concern, security issue
+Staff conduct complaint | Rude interaction, service failure
+Compensation request | Guest asks for a credit, refund, or free night
+
+14. Primary Customer Groups
+
+Go Gator Resort & Spa serves a diverse mix of domestic and international leisure and business travelers. The resort's primary customer groups are:
+
+Customer Group | Typical Guests & Needs
+U.S. Domestic Travelers | Families, couples, business travelers, and leisure guests traveling from across the United States. Key interests include beachfront recreation, pools, dining, golf, spa services, and family activities.
+Canadian Travelers | Couples, families, and seasonal vacationers seeking an all-inclusive beach resort experience, recreational activities, dining, and wellness services.
+Chinese Travelers | Individual travelers, families, and small groups visiting the United States for leisure or vacation. They may value multilingual assistance, convenient transportation, detailed itinerary information, and clear explanations of hotel services and policies.
+South Korean Travelers | Leisure travelers, families, couples, and business visitors seeking resort accommodations, dining, shopping, recreation, and local excursions. Clear communication and convenient activity planning are important service considerations.
+Mexican Travelers | Families, couples, and leisure travelers seeking a beach vacation, family-friendly activities, dining, entertainment, and convenient transportation and excursion options.
+
+15. Department Directory
+
+Department | Extension | Primary Functions
+Front Desk | 0 | Guest services
+Concierge | 20 | Activities and excursions
+Housekeeping | 30 | Room cleaning and supplies
+Engineering | 40 | Maintenance
+Room Service | 55 | In-room dining
+Spa | 60 | Spa services
+Events | 70 | Meetings and events
+Reservations | 80 | Reservations
+Security | 90 | Security
+
+16. Local Attractions & Area Information
+
+Attraction | Approx. Distance | Typical Visit | Key Information
+Downtown Gainesville | 15 min | 2–4 hrs | Restaurants, shops, nightlife
+University of Florida | 15 min | 2–4 hrs | Campus, sports, museums
+Florida Museum of Natural History | 20 min | 2–3 hrs | Family-friendly museum
+Butterfly Rainforest | 20 min | 1–2 hrs | Indoor tropical attraction
+Kanapaha Botanical Gardens | 20 min | 1–2 hrs | Gardens and walking trails
+Devil's Millhopper Geological State Park | 25 min | 1–2 hrs | Nature and hiking
+Paynes Prairie | 25 min | 1–3 hrs | Wildlife viewing and trails
+Historic Downtown / Cultural District | 15–20 min | 2–4 hrs | Dining and cultural activities
+
+17. Operational Updates
+
+Due to temporary staffing limitations, airport shuttle reservations currently require 24-hour advance booking.
+
+On Sunday, the spa will open at 10 AM due to scheduled maintenance.
+
+The Family Pool will close at 6 PM today for a private event.
+
+The Waterfront will close at 8 PM tonight for a private event.
+
+Platinum Gators members receive complimentary cabana rental on weekdays during the current promotional period.
